@@ -1,14 +1,4 @@
 {
-  "docs/getting-started.html": {
-    "href": "docs/getting-started.html",
-    "title": "Getting Started | mylearnerdata",
-    "keywords": "Getting Started"
-  },
-  "docs/introduction.html": {
-    "href": "docs/introduction.html",
-    "title": "Introduction | mylearnerdata",
-    "keywords": "Introduction"
-  },
   "imprint.html": {
     "href": "imprint.html",
     "title": "Impressum (Imprint) | mylearnerdata",
@@ -16,7 +6,17 @@
   },
   "index.html": {
     "href": "index.html",
-    "title": "This is the HOMEPAGE. | mylearnerdata",
-    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+    "title": "Home | mylearnerdata",
+    "keywords": "Home Welcome!"
+  },
+  "xapi/getting-started.html": {
+    "href": "xapi/getting-started.html",
+    "title": "Getting Started | mylearnerdata",
+    "keywords": "Getting Started"
+  },
+  "xapi/introduction.html": {
+    "href": "xapi/introduction.html",
+    "title": "Introduction | mylearnerdata",
+    "keywords": "Introduction"
   }
 }

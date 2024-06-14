@@ -1,5 +1,5 @@
 {
-  "source_base_path": "C:/Data/DeLTLabs/Dev/DocFx/mylearnerdatacom-pages",
+  "source_base_path": "C:/Data/DeLTLabs/Dev/mylearnerdatacom-pages",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -11,34 +11,41 @@
       }
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/getting-started.md",
+      "type": "Resource",
+      "source_relative_path": "images/custom.ico",
       "output": {
-        ".html": {
-          "relative_path": "docs/getting-started.html"
+        "resource": {
+          "relative_path": "images/custom.ico"
         }
       },
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "docs/introduction.md",
+      "type": "Resource",
+      "source_relative_path": "images/custom.svg",
       "output": {
-        ".html": {
-          "relative_path": "docs/introduction.html"
+        "resource": {
+          "relative_path": "images/custom.svg"
         }
       },
       "version": ""
     },
     {
-      "type": "Toc",
-      "source_relative_path": "docs/toc.yml",
+      "type": "Resource",
+      "source_relative_path": "images/logo.jpg",
       "output": {
-        ".html": {
-          "relative_path": "docs/toc.html"
-        },
-        ".json": {
-          "relative_path": "docs/toc.json"
+        "resource": {
+          "relative_path": "images/logo.jpg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/lrscreds.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/lrscreds.png"
         }
       },
       "version": ""
@@ -72,6 +79,39 @@
         },
         ".json": {
           "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "xapi/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "xapi/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "xapi/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "xapi/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "xapi/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "xapi/toc.html"
+        },
+        ".json": {
+          "relative_path": "xapi/toc.json"
         }
       },
       "version": ""
