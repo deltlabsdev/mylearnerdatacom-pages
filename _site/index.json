@@ -1,0 +1,22 @@
+{
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started | mylearnerdata",
+    "keywords": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction | mylearnerdata",
+    "keywords": "Introduction"
+  },
+  "imprint.html": {
+    "href": "imprint.html",
+    "title": "Impressum (Imprint) | mylearnerdata",
+    "keywords": "Impressum (Imprint) DeLT Labs GmbH Agnes-Bernauer-Strasse 151 80687 München Handelsregister: HRB 283614 Registergericht: Amtsgericht München Vertreten durch: Diplom-Kaufmann Oliver Pincus Kontakt Telefon: +49 (0) 89 69319051 E-Mail: mail@deltlabs.com Umsatzsteuer-ID Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE215827651 Angaben gemäß § 5 TMG"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | mylearnerdata",
+    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}
